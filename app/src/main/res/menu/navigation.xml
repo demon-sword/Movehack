@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ride"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Journey" />
+
+    <item
+        android:id="@+id/rapid"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Rapid Transaction" />
+
+
+
+</menu>
